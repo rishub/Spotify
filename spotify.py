@@ -1,6 +1,7 @@
 
 '''
-This program takes in two url's to spotify playlists. 
+This python script uses selenium.
+It takes in two url's to spotify playlists. 
 It goes through the first one and delete any songs that are already in the second one.
 '''
 
